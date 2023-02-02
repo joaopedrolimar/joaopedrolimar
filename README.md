@@ -2,7 +2,7 @@
 
 - 📚 Cursando Ciência da computação 3/8👨‍🎓
 - ⚡ Atualmente estudando React Native
-- 😎 Futuro Elon Musk
+- 😎 Sempre em contaste evolução.
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Joao-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
