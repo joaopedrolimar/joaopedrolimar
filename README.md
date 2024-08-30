@@ -1,7 +1,7 @@
 ## hello word!!! aqui quem fala é o João 👋
 
-- 📚 Cursando Ciência da computação 3/8👨‍🎓
-- ⚡ Atualmente estudando React Native
+- 📚 Análise e Desenvolvimento de Sistemas 7/8👨‍🎓
+- ⚡ Machine Learning
 - 😎 Sempre em constante evolução.
 
 <div style="display: inline_block"><br>
