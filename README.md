@@ -1,7 +1,8 @@
 ## hello word!!! aqui quem fala é o João 👋
 
-- 📚 Análise e Desenvolvimento de Sistemas 7/8👨‍🎓
-- ⚡ Machine Learning
+- 📚 Análise e Desenvolvimento de Sistemas 👨‍🎓
+- 📚 Ciências da Computação 6/8 👨‍🎓
+- ⚡ Full-Stack
 - 😎 Sempre em constante evolução.
 
 <div style="display: inline_block"><br>
