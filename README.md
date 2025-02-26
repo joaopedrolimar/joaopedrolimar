@@ -1,7 +1,6 @@
 ## hello word!!! aqui quem fala é o João 👋
 
 - 📚 Análise e Desenvolvimento de Sistemas 👨‍🎓
-- 📚 Ciências da Computação 6/8 👨‍🎓
 - ⚡ Full-Stack
 - 😎 Sempre em constante evolução.
 
